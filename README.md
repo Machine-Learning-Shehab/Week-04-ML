@@ -1,4 +1,5 @@
-# Deep Learning Algorithms
+# Week-04-ML
+## Deep Learning Algorithms
 
 ## Hardware
 
@@ -59,4 +60,4 @@ The results of all three models (complex, simple, and regularized) are compared 
 
 ## Source code:
 [Jupyter Notebook](Applying_Machine_Learning.ipynb)
-# Week-04-ML
+
